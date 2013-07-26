@@ -1,0 +1,12 @@
+#colorutil-picker input {
+    height: 33px;
+    margin-top: 8px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+.colorutil-col30 {
+    display: inline-block;
+    width: 32%;
+    padding: 0 2%;
+}
